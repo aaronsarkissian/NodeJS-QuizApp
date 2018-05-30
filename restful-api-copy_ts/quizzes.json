@@ -1,0 +1,206 @@
+[
+    {
+        "fullQuestion": {
+            "id": 1000,
+            "question": "One plus Four is:",
+            "choices": [
+                {
+                    "option": "Five"
+                },
+                {
+                    "option": "Six"
+                }
+            ]
+        },
+        "correctAnswers": {
+            "Five": 1,
+            "Six": 0
+        }
+    },
+    {
+        "fullQuestion": {
+            "id": 1001,
+            "question": "1 + 1:",
+            "choices": [
+                {
+                    "option": "Two"
+                },
+                {
+                    "option": "Zero"
+                },
+                {
+                    "option": "Null"
+                }
+            ]
+        },
+        "correctAnswers": {
+            "Two": 1,
+            "Zero": 0,
+            "Null": 0
+        }
+    },
+    {
+        "fullQuestion": {
+            "id": 1002,
+            "question": "Solo + Learn:",
+            "choices": [
+                {
+                    "option": "42"
+                },
+                {
+                    "option": "God"
+                },
+                {
+                    "option": "SoloLearn"
+                }
+            ]
+        },
+        "correctAnswers": {
+            "42": 1,
+            "God": 1,
+            "SoloLearn": 1
+        }
+    },
+    {
+        "fullQuestion": {
+            "id": 1003,
+            "question": "Latest Android version is:",
+            "choices": [
+                {
+                    "option": "5.1"
+                },
+                {
+                    "option": "8.1"
+                },
+                {
+                    "option": "8.0"
+                }
+            ]
+        },
+        "correctAnswers": {
+            "5.1": 0,
+            "8.1": 1,
+            "8.0": 0
+        }
+    },
+    {
+        "fullQuestion": {
+            "id": 1004,
+            "question": "Node rocks!",
+            "choices": [
+                {
+                    "option": "Yesss"
+                }
+            ]
+        },
+        "correctAnswers": {
+            "Yesss": 1
+        }
+    },
+    {
+        "fullQuestion": {
+            "id": 1005,
+            "question": "2*2:",
+            "choices": [
+                {
+                    "option": "5"
+                },
+                {
+                    "option": "4"
+                },
+                {
+                    "option": "8"
+                }
+            ]
+        },
+        "correctAnswers": {
+            "5": 0,
+            "4": 1,
+            "8": 0
+        }
+    },
+    {
+        "fullQuestion": {
+            "id": 1006,
+            "question": "Nine + 2:",
+            "choices": [
+                {
+                    "option": "11"
+                },
+                {
+                    "option": "10"
+                },
+                {
+                    "option": "8000"
+                }
+            ]
+        },
+        "correctAnswers": {
+            "11": 1,
+            "10": 0,
+            "8000": 0
+        }
+    },
+    {
+        "fullQuestion": {
+            "id": 1007,
+            "question": "Capital of 🇦🇲?",
+            "choices": [
+                {
+                    "option": "Null"
+                },
+                {
+                    "option": "Moscow"
+                },
+                {
+                    "option": "Yerevan"
+                }
+            ]
+        },
+        "correctAnswers": {
+            "Null": 0,
+            "Moscow": 0,
+            "Yerevan": 1
+        }
+    },
+    {
+        "fullQuestion": {
+            "id": 1008,
+            "question": "What color is the cat?",
+            "choices": [
+                {
+                    "option": "green"
+                },
+                {
+                    "option": "yellow"
+                },
+                {
+                    "option": "brown"
+                }
+            ]
+        },
+        "correctAnswers": {
+            "green": 0,
+            "yellow": 0,
+            "brown": 1
+        }
+    },
+    {
+        "fullQuestion": {
+            "id": 1009,
+            "question": "Is this a question?",
+            "choices": [
+                {
+                    "option": "sure"
+                },
+                {
+                    "option": "no"
+                }
+            ]
+        },
+        "correctAnswers": {
+            "sure": 1,
+            "no": 0
+        }
+    }
+]

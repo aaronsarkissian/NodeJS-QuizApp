@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>SoloNode</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.4/socket.io.js"></script>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <h1>SoloNode</h1>
+
+    
+    <h3>Signup OR Login</h3>
+    <p>Email: <input type="email" name="email" id="email"></p>
+    <p>Password: <input type="password" name="password" id="password"></p>
+    <button id="signup">Signup</button>
+    <button id="login">Login</button>
+    <br/>
+    <button id="logout">Log Out</button>
+    
+    <h2 id="getUsersTxt">Online Users</h2>
+    <button id="getUsers">Get Users</button>
+    <ul id="users"></ul>
+    <br>
+
+    <p style="display:inline" id='timerTxt'>Timer: </p>
+    <p style="display:inline" id='timerVal'></p>
+    <div id='quiz' style='background-color: #95d2e6'></div>
+    <button id="submitBtn">Submit Quizzes</button>
+
+</body>
+
+</html>
